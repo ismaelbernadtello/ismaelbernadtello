@@ -7,8 +7,8 @@
 - 👨‍💻 Estudiante desarrollador de software.
 - 🌐 Apasionado por la tecnología y el desarrollo de aplicaciones.
 - 📚 Siempre aprendiendo y mejorando mis habilidades.
-🔭 Actualmente estoy estudiando en: Salesianos Zaragoza
-🌱 Actualmente estoy aprendiendo .Net, Python y C#
+- 🔭 Actualmente estoy estudiando en: Salesianos Zaragoza
+- 🌱 Actualmente estoy aprendiendo .Net, Python y C#
 
 
 ## Proyectos Destacados
