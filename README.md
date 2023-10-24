@@ -63,7 +63,7 @@ Puedes encontrar más proyectos en mi perfil y contribuir si lo deseas.
 ## Contacto
 
 Si quieres ponerte en contacto conmigo, puedes encontrarme en las siguientes redes sociales y plataformas:
-- [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />](https://www.linkedin.com/in/ismael-bernad-tello-7aa49a257/)
+- [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />](https://www.linkedin.com/in/IsmaelBernadTello)
 - Envíame un correo a [ismaelbernadtello@gmail.com](mailto:ismaelbernadtello@gmail.com)
 
 
