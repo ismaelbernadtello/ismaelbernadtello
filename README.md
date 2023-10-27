@@ -15,7 +15,7 @@
 
 A continuación, algunos de los proyectos destacados en los que he trabajado:
 
-- [Proyecto Pokemon]: Trabajo que realicé en 2022 para la asignatura de bases de datos. (Link)
+- [Proyecto Pokemon]: Trabajo que realicé en 2022 para la asignatura de bases de datos. https://github.com/ismaelbernadtello/ProyectoPokemon
 
 Puedes encontrar más proyectos en mi perfil y contribuir si lo deseas.
 
