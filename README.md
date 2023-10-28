@@ -19,6 +19,10 @@ A continuación, algunos de los proyectos destacados en los que he trabajado:
 
 Puedes encontrar más proyectos en mi perfil y contribuir si lo deseas.
 
+## Cursos y certificados
+A continuación, algunos de los cursos y certificados que he realizado:
+- Curso de git y github. https://www.udemy.com/certificate/UC-b9fde7cd-0ac9-4695-a105-ef6de186383b/
+
 ### Languages and Tools:
 
 <p align="left">
